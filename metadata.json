@@ -1,0 +1,6 @@
+{
+  "name": "CodeFlow Graph",
+  "description": "Interactive Program Flow, Data Flow, and Execution Visualizer for C, C++, Python, Java, and JavaScript with Obsidian-style graph dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
